@@ -21,6 +21,7 @@ on:
         options:
           - plan
           - apply
+          - destroy
 
 jobs:
   terraform:
